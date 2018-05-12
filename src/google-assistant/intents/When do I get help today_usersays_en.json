@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2b7f94f7-7d98-4a0a-b22e-851d0d6e6a86",
+    "data": [
+      {
+        "text": "\"When do I get help ",
+        "userDefined": false
+      },
+      {
+        "text": "today\"",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526093719
+  },
+  {
+    "id": "ba1797b0-dd68-4bb9-99de-f2b7c493365f",
+    "data": [
+      {
+        "text": "\"When is John coming\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526093719
+  },
+  {
+    "id": "6f46f9c5-f127-47e5-ba9a-06dd8e93f33a",
+    "data": [
+      {
+        "text": "\"When is John arriving\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526093719
+  },
+  {
+    "id": "35678ebf-0138-41de-ada7-c0f02d5bdf66",
+    "data": [
+      {
+        "text": "\"When is my caretaker coming\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526093719
+  }
+]

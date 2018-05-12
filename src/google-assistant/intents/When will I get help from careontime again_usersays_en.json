@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e83bf0c9-0149-451f-ad5c-0b5cf6c04faa",
+    "data": [
+      {
+        "text": "\"When will I get help from careontime again\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526093814
+  },
+  {
+    "id": "c4575661-7be4-41eb-aa7f-d661eaacb6fb",
+    "data": [
+      {
+        "text": "\"When will my carer come ",
+        "userDefined": false
+      },
+      {
+        "text": "next week\"",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526093814
+  },
+  {
+    "id": "c92858f6-4957-41b8-a6ec-59213cf43913",
+    "data": [
+      {
+        "text": "\"What is my schedule with careontime for ",
+        "userDefined": false
+      },
+      {
+        "text": "next week\"",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526093814
+  }
+]

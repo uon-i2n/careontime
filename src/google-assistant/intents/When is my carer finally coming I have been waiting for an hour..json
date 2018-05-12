@@ -1,0 +1,58 @@
+{
+  "id": "02ae973b-ca80-4106-9f53-787295675c79",
+  "name": "When is my carer finally coming I have been waiting for an hour.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "custom_payload",
+          "platform": "google",
+          "lang": "en",
+          "payload": {
+            "google": {
+              "attachment": {
+                "type": "video",
+                "payload": {},
+                "url": "https://firebasestorage.googleapis.com/v0/b/careontime-a4832.appspot.com/o/Coldplay%20-%20Paradise%20(Official%20Video).mp3?alt\u003dmedia\u0026token\u003da3d44fed-c173-4d47-956d-1e53d018c263"
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"I am sorry but there was an emergency with another customer. Please hold on for another 30 minutes or let us know if you want to reschedule for another day.\""
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {
+            "google": {
+              "attachment": {
+                "type": "video",
+                "payload": {},
+                "url": "https://firebasestorage.googleapis.com/v0/b/careontime-a4832.appspot.com/o/Coldplay%20-%20Paradise%20(Official%20Video).mp3?alt\u003dmedia\u0026token\u003da3d44fed-c173-4d47-956d-1e53d018c263"
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526093776,
+  "fallbackIntent": false,
+  "events": []
+}

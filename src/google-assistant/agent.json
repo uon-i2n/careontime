@@ -20,6 +20,7 @@
     "voiceType": "MALE_1",
     "capabilities": [],
     "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
     "isDeviceAgent": false
   },
   "defaultTimezone": "Australia/Sydney",

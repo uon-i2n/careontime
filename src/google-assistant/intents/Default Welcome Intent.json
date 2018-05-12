@@ -12,17 +12,17 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
+          "speech": "Welcome to Care on Time. How can I help you today? You can for example ask where your carer is right now and reschedule bookings."
+        },
+        {
+          "type": 0,
           "lang": "de",
           "speech": [
             "Hallo!",
             "Guten Tag!",
             "Ich grüße dich!"
           ]
-        },
-        {
-          "type": 0,
-          "lang": "en",
-          "speech": "Welcome to Care on Time. How can I help you today? You can for example ask where your carer is right now and reschedule bookings."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -32,11 +32,14 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526089949,
+  "lastUpdate": 1526091204,
   "fallbackIntent": false,
   "events": [
     {
       "name": "WELCOME"
+    },
+    {
+      "name": "actions_intent_GET_JOKE"
     }
   ]
 }

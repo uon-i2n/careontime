@@ -12,7 +12,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "When do you want to reschedule your appointment for?"
+          "speech": "\"When do you want to reschedule your appointment for\""
         }
       ],
       "defaultResponsePlatforms": {},
@@ -22,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526089171,
+  "lastUpdate": 1526093693,
   "fallbackIntent": false,
   "events": []
 }
