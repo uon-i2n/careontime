@@ -1,0 +1,37 @@
+{
+  "id": "afcd7e22-b6aa-4c27-b60b-7b0d1efcf4d3",
+  "name": "When do I get help today?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "72b5c3e1-884b-4b57-9613-dbed56c15e40",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "John will arrive in half an hour."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526086250,
+  "fallbackIntent": false,
+  "events": []
+}

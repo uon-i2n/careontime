@@ -1,0 +1,28 @@
+{
+  "id": "a6fb7a0d-5f82-4de6-81a2-2e865513aa04",
+  "name": "I want to reschedule my appointment with Alice for Thursday the 16th of May at 2pm.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your appointment has been sucessfully rescheduled. John will see you next week on Thursday 2pm."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526089301,
+  "fallbackIntent": false,
+  "events": []
+}

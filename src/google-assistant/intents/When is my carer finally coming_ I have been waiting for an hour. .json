@@ -1,0 +1,37 @@
+{
+  "id": "02ae973b-ca80-4106-9f53-787295675c79",
+  "name": "When is my carer finally coming? I have been waiting for an hour. ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please hold on for another 30 minutes. I am so sorry but an emergency with another client came up. In the meantime I will play some claming music for you.",
+            "https://www.youtube.com/watch?v\u003d29IY8aiOnyE"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526089130,
+  "fallbackIntent": false,
+  "events": []
+}
