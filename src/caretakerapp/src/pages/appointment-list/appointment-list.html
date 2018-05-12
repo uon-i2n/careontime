@@ -1,0 +1,26 @@
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Weekly Appointments</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-item>
+    <img src="../../assets/imgs/image.png" alt="" style="max-height: 100px; max-width: 100px;" item-left>
+    <h2 style="font-size: larger">Time Schedule</h2>
+  </ion-item>
+
+
+  <ion-list>
+   <button
+     ion-item
+     *ngFor="let day of appointmentsCollection"
+      [navPush]="appointmentsPage" [navParams]="day">
+     <h2 style="padding: 30px;">{{ day.category }}</h2>
+   </button>
+  </ion-list>
+</ion-content>

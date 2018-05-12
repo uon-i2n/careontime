@@ -1,0 +1,48 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ day.category | uppercase}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+<ion-card *ngFor="let patient of day.patients">
+  <ion-item>
+    <h2>{{ patient.name }}</h2>
+    <p>Appointment at {{ patient.time }}</p>
+    <p>Booked for {{ patient.duration}}</p>
+  </ion-item>
+  <hr>
+  <ion-item>
+    <ion-row>
+      <ion-col><h3>Service:</h3></ion-col>
+      <ion-col><p>{{ patient.service }}</p></ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col><h3>Med. Conditions:</h3></ion-col>
+      <ion-col><p>{{ patient.medical_conditions }}</p></ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col><h3>Updates:</h3></ion-col>
+      <ion-col><p>{{ patient.updates }}</p></ion-col>
+    </ion-row>
+  </ion-item>
+  <hr>
+  <ion-row>
+    <ion-col>
+      <button ion-button icon-left clear small>
+        <ion-icon name="checkmark-circle"></ion-icon>
+        <div>Service Finished</div>
+      </button>
+    </ion-col>
+    <ion-col>
+      <button ion-button icon-left clear small>
+        <ion-icon name="navigate"></ion-icon>
+        <div>Directions</div>
+      </button>
+    </ion-col>
+  </ion-row>
+</ion-card>
+</ion-content>
