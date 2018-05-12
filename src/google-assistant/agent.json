@@ -7,7 +7,48 @@
   "googleAssistant": {
     "googleAssistantCompatible": true,
     "welcomeIntentSignInRequired": false,
-    "startIntents": [],
+    "startIntents": [
+      {
+        "intentId": "a6fb7a0d-5f82-4de6-81a2-2e865513aa04",
+        "signInRequired": false
+      },
+      {
+        "intentId": "afcd7e22-b6aa-4c27-b60b-7b0d1efcf4d3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e1625c3c-9e94-49a8-9b58-63c316e70d04",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e6a86510-9b10-4d7e-a56f-2395b24f4565",
+        "signInRequired": false
+      },
+      {
+        "intentId": "92adc65d-ca02-4b8c-8a69-d5e97cc7811b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6bd769c6-8d56-4ae7-98e4-27bef420337e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "02ae973b-ca80-4106-9f53-787295675c79",
+        "signInRequired": false
+      },
+      {
+        "intentId": "097f3416-b448-4604-a186-5a0034e1bc5d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d3441dbe-7f7b-45d7-bb50-90210f2ef385",
+        "signInRequired": false
+      },
+      {
+        "intentId": "62ef4e75-0608-48b1-8081-b41066d4a13b",
+        "signInRequired": false
+      }
+    ],
     "systemIntents": [],
     "endIntentIds": [
       "afcd7e22-b6aa-4c27-b60b-7b0d1efcf4d3",

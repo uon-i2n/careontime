@@ -1,0 +1,48 @@
+[
+  {
+    "id": "a471cef4-856b-427e-beca-ef4a84d73f10",
+    "data": [
+      {
+        "text": "\"Call ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095803
+  },
+  {
+    "id": "701fc066-4434-474e-bb5a-7729aa95537d",
+    "data": [
+      {
+        "text": "\"Cancel\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095803
+  },
+  {
+    "id": "736cfa75-7dc6-47bf-b3c2-c2439ca82d9d",
+    "data": [
+      {
+        "text": "\"Reschedule\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095803
+  }
+]

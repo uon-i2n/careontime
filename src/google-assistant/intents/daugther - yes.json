@@ -1,0 +1,44 @@
+{
+  "id": "3915a9a2-c551-43dc-be0d-f5c5ee03b3ee",
+  "parentId": "d3441dbe-7f7b-45d7-bb50-90210f2ef385",
+  "rootParentId": "d3441dbe-7f7b-45d7-bb50-90210f2ef385",
+  "name": "daugther - yes",
+  "auto": true,
+  "contexts": [
+    "daugther-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "daugther.daugther-yes",
+      "affectedContexts": [
+        {
+          "name": "daugther-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is an open slot tomorrow at 2pm would that suit you?"
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526096335,
+  "fallbackIntent": false,
+  "events": []
+}

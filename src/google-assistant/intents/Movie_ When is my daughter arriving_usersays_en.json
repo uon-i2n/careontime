@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b84492dd-1b70-473d-b5b2-f9e1ed691645",
+    "data": [
+      {
+        "text": "\"daughter\" + \"visit\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096832
+  },
+  {
+    "id": "32689953-c75d-48b1-8855-67fde065080b",
+    "data": [
+      {
+        "text": "\"daughter\" + \"arrive\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096832
+  },
+  {
+    "id": "88ebc618-0e56-4451-a495-0677bf354cc9",
+    "data": [
+      {
+        "text": "\"when will my daughter arrive\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096832
+  },
+  {
+    "id": "6bd083f7-788f-4c5b-8f9a-17346fde4b39",
+    "data": [
+      {
+        "text": "\"daugther will arrive\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096832
+  }
+]

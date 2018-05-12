@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3dfc0385-d361-4b6d-8206-3ad160e6f66c",
+    "data": [
+      {
+        "text": "mach das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096260
+  },
+  {
+    "id": "e8df9ed9-8258-475a-9eb1-f0181b9d350a",
+    "data": [
+      {
+        "text": "ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1526096260
+  },
+  {
+    "id": "481e9126-77e5-4622-91ac-2eedfa16bced",
+    "data": [
+      {
+        "text": "natürlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526096260
+  },
+  {
+    "id": "2ed9d76a-66b5-4ab4-94ae-6f2f80dfe783",
+    "data": [
+      {
+        "text": "bestätigen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096260
+  },
+  {
+    "id": "c0b2eb32-439b-4707-91e9-e777d1d3926c",
+    "data": [
+      {
+        "text": "klingt gut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096260
+  },
+  {
+    "id": "f4e9389b-9215-474c-a515-aee900add438",
+    "data": [
+      {
+        "text": "ist mir egal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526096260
+  },
+  {
+    "id": "b7731c7a-968c-41df-bc8d-88a891d96456",
+    "data": [
+      {
+        "text": "genau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1526096260
+  },
+  {
+    "id": "d285b70e-e5e6-4e36-a60c-85f6e663d16d",
+    "data": [
+      {
+        "text": "klar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526096260
+  },
+  {
+    "id": "3ca64f84-0e0a-4146-8bac-ece5e0f94f35",
+    "data": [
+      {
+        "text": "das ist richtig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526096260
+  },
+  {
+    "id": "a645b754-fa47-4340-9b33-173e1f734438",
+    "data": [
+      {
+        "text": "einverstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526096260
+  }
+]

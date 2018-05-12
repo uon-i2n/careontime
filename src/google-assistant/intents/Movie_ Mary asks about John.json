@@ -1,6 +1,6 @@
 {
-  "id": "afcd7e22-b6aa-4c27-b60b-7b0d1efcf4d3",
-  "name": "When do I get help today?",
+  "id": "6bd769c6-8d56-4ae7-98e4-27bef420337e",
+  "name": "Movie: Mary asks about John",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "72b5c3e1-884b-4b57-9613-dbed56c15e40",
+          "id": "91de41e7-ee14-4575-a8cb-68c58e37b77d",
           "required": false,
           "dataType": "@sys.date",
           "name": "date",
@@ -21,7 +21,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "John will arrive in half an hour."
+          "speech": "\"John is scheduled to visit at 2pm today.\""
         }
       ],
       "defaultResponsePlatforms": {},
@@ -31,7 +31,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526086250,
+  "lastUpdate": 1526096520,
   "fallbackIntent": false,
   "events": []
 }

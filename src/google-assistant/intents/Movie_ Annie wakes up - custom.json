@@ -1,0 +1,47 @@
+{
+  "id": "bbc3db2d-2fb1-48a6-a34a-f406ccdc2242",
+  "parentId": "097f3416-b448-4604-a186-5a0034e1bc5d",
+  "rootParentId": "097f3416-b448-4604-a186-5a0034e1bc5d",
+  "name": "Movie: Annie wakes up - custom",
+  "auto": true,
+  "contexts": [
+    "MovieAnniewakesup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MovieAnniewakesup.MovieAnniewakesup-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6fb58374-1754-463e-bdb2-65701198840d",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\"Okey, calling John\""
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526095803,
+  "fallbackIntent": false,
+  "events": []
+}

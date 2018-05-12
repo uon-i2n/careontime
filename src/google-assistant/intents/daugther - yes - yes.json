@@ -1,28 +1,28 @@
 {
-  "id": "3c8b95ed-59bf-46db-a7ff-b1079c9f8e5b",
-  "name": "Default Welcome Intent",
+  "id": "6c72136d-f209-46e9-829a-e85cc30d2796",
+  "parentId": "3915a9a2-c551-43dc-be0d-f5c5ee03b3ee",
+  "rootParentId": "d3441dbe-7f7b-45d7-bb50-90210f2ef385",
+  "name": "daugther - yes - yes",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "daugther-yes-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.welcome",
+      "action": "daugther.daugther-yes.daugther-yes-yes",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "Welcome to Care on Time. How can I help you today?"
+          "speech": "Perfect have fun with your daugther and see you tomorrow."
         },
         {
           "type": 0,
           "lang": "de",
-          "speech": [
-            "Hallo!",
-            "Guten Tag!",
-            "Ich grüße dich!"
-          ]
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},
@@ -32,14 +32,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526095830,
+  "lastUpdate": 1526096408,
   "fallbackIntent": false,
-  "events": [
-    {
-      "name": "WELCOME"
-    },
-    {
-      "name": "actions_intent_GET_JOKE"
-    }
-  ]
+  "events": []
 }

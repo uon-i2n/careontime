@@ -1,6 +1,6 @@
 {
-  "id": "e1625c3c-9e94-49a8-9b58-63c316e70d04",
-  "name": "I need to pee when is my caretaker coming?",
+  "id": "92adc65d-ca02-4b8c-8a69-d5e97cc7811b",
+  "name": "\"exit message\"",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -12,7 +12,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Please hold on a bit. Alice will be here in 10 minutes. There was some traffice on the Pacific highway"
+          "speech": "Thank you for choosing careontime as your care provider. We hope you are highly satisfied with our service and we will see you at your next appointment tomorrow at 4pm on the 13th of May."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -22,7 +22,11 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526086904,
+  "lastUpdate": 1526095859,
   "fallbackIntent": false,
-  "events": []
+  "events": [
+    {
+      "name": "actions_intent_CANCEL"
+    }
+  ]
 }

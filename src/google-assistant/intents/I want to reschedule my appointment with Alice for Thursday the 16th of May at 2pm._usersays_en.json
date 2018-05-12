@@ -1,6 +1,18 @@
 [
   {
-    "id": "ce146de2-3357-4839-83b3-9fa9373383bf",
+    "id": "63a372f6-e041-46a2-b143-5dc462ca2548",
+    "data": [
+      {
+        "text": "\"reschedule\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526094427
+  },
+  {
+    "id": "2d0195ef-b618-4f83-97c7-46411636f66e",
     "data": [
       {
         "text": "\"I want to reschedule my appointment with Alice for Thursday the 16th of May at 2pm.\"",

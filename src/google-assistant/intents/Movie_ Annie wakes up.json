@@ -1,0 +1,34 @@
+{
+  "id": "097f3416-b448-4604-a186-5a0034e1bc5d",
+  "name": "Movie: Annie wakes up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "MovieAnniewakesup-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good morning Annie. Your carer John is delayed today due to heavy traffic. He will arrive in about 20 minutes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526095426,
+  "fallbackIntent": false,
+  "events": []
+}

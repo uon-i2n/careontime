@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bf332918-495b-4ff1-b75c-49b952ed92f4",
+    "data": [
+      {
+        "text": "\"cheers\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095750
+  },
+  {
+    "id": "426701f1-dc46-4b9d-ab65-c0604da0280f",
+    "data": [
+      {
+        "text": "\"have a good day\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095750
+  },
+  {
+    "id": "96ca5f48-eb2f-4a55-87b8-d86f36a005dd",
+    "data": [
+      {
+        "text": "\"good bye\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095750
+  },
+  {
+    "id": "24137beb-1683-4f2c-87ee-d54f439c526a",
+    "data": [
+      {
+        "text": "\"see you\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095750
+  },
+  {
+    "id": "79879414-1299-44ca-8fd4-b3267a93a31b",
+    "data": [
+      {
+        "text": "\"bye\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526095750
+  }
+]
