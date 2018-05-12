@@ -1,0 +1,38 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "\"I am your care on time mobile application friend\""
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I am great how are you?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "I am so sorry are you angry about the delay of John?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.bored",
+    "customAnswers": [
+      "Let me play some classical music for you."
+    ]
+  },
+  {
+    "action": "smalltalk.user.busy",
+    "customAnswers": [
+      "Shall i reschedule the appointment for you?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.can_not_sleep",
+    "customAnswers": [
+      "Let me play some calming music for you."
+    ]
+  }
+]

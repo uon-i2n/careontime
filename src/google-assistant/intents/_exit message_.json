@@ -12,7 +12,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Thank you for choosing careontime as your care provider. We hope you are highly satisfied with our service and we will see you at your next appointment tomorrow at 4pm on the 13th of May."
+          "speech": "Thank you for choosing care on time as your care provider. We hope you are highly satisfied with our service and we will see you at your next appointment."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -22,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526095859,
+  "lastUpdate": 1526100710,
   "fallbackIntent": false,
   "events": [
     {

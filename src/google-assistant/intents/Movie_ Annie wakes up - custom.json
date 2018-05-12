@@ -12,21 +12,12 @@
       "resetContexts": false,
       "action": "MovieAnniewakesup.MovieAnniewakesup-custom",
       "affectedContexts": [],
-      "parameters": [
-        {
-          "id": "6fb58374-1754-463e-bdb2-65701198840d",
-          "required": false,
-          "dataType": "@sys.given-name",
-          "name": "given-name",
-          "value": "$given-name",
-          "isList": false
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "\"Okey, calling John\""
+          "speech": "\"We are very sorry about this and will try our best to make it up to you \""
         },
         {
           "type": 0,
@@ -41,7 +32,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526095803,
+  "lastUpdate": 1526102019,
   "fallbackIntent": false,
   "events": []
 }
